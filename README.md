@@ -1,4 +1,8 @@
+# DevTrack — Developer Task Manager
 
+A clean, responsive task dashboard built with **Python, Flask, SQLite, HTML, and CSS**. Track tasks across projects, set priorities and due dates, and update progress from one place.
+
+## Features
 
 - Create and delete tasks
 - Track status: Todo, In Progress, Done
